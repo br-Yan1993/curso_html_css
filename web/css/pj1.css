@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+#div1 {
+    background-color: white;
+    margin: 100px;
+} 
+
+#div1-2{
+    background-color: blue;
+    float: right;
+}
+
+#titulo {
+    padding-left: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#texto_div1 {
+    color: rgb(89, 89, 89);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 15%;
+    padding-bottom: 1%;
+}
